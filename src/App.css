@@ -1,0 +1,27 @@
+div.displayFlex{
+  display: flex;
+}
+
+div{
+  margin-bottom: 16px;
+  margin-right: 16px;
+}
+
+div#root{
+  display: block;
+  margin-left: 82px;
+}
+div.App{
+  display: block;
+}
+
+footer{
+
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+}

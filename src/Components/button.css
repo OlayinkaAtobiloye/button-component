@@ -1,0 +1,26 @@
+.material-icons{
+    color: #ffffff;
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    font-size: 16px;
+}
+
+.startIcon{
+    margin-right: 5px;
+}
+
+.endIcon{
+    margin-left: 5px;
+}
+
+p{
+    font-family: Ubuntu Mono;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+
+}
